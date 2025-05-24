@@ -11,7 +11,7 @@ Funktion namn fluff:
         då skriv ut "du vann"
     Annars om svar är påse och dator är sten: 
         då skriv ut "du vann"
-    Annars om svar är samma
+    Annars om svar är lika
         då skriv ut "Oavgjort!"
     Annars
         Skriv ut "datorn vann"
